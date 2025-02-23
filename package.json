@@ -1,0 +1,21 @@
+{
+  "name": "learnable-task9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamsiyochukwu-Dimson/learnable-task9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Kamsiyochukwu-Dimson/learnable-task9/issues"
+  },
+  "homepage": "https://github.com/Kamsiyochukwu-Dimson/learnable-task9#readme"
+}
